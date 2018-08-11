@@ -14,8 +14,8 @@
 # limitations under the License.
 #
 
-BOARD_VENDOR := oppo
+BOARD_VENDOR := gionee
 
 # Releasetools
-TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_oppo
-TARGET_RELEASETOOLS_EXTENSIONS := device/oppo/common
+TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_gionee
+TARGET_RELEASETOOLS_EXTENSIONS := device/gionee/common
